@@ -1,5 +1,6 @@
-package com.app.springcore;
+package com.app.springcore.rest;
 
+import com.app.util.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
